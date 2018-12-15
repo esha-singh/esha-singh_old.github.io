@@ -1,3 +1,3 @@
 # esha-singh.github.io
 
-Personal website 
+Code for personal website 
